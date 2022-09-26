@@ -1,0 +1,6 @@
+[book]
+authors = ["Илья Дружинин"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Распределённые системы"
